@@ -1,0 +1,131 @@
+;
+; Start view _default
+;
+;
+; Cache dump of view '_default' (cache _default)
+;
+$DATE 20141012232820
+; authanswer
+.			518321	IN NS	a.root-servers.net.
+			518321	IN NS	b.root-servers.net.
+			518321	IN NS	c.root-servers.net.
+			518321	IN NS	d.root-servers.net.
+			518321	IN NS	e.root-servers.net.
+			518321	IN NS	f.root-servers.net.
+			518321	IN NS	g.root-servers.net.
+			518321	IN NS	h.root-servers.net.
+			518321	IN NS	i.root-servers.net.
+			518321	IN NS	j.root-servers.net.
+			518321	IN NS	k.root-servers.net.
+			518321	IN NS	l.root-servers.net.
+			518321	IN NS	m.root-servers.net.
+; authanswer
+			518321	RRSIG	NS 8 0 518400 20141019170000 (
+					20141012160000 22603 .
+					XenEQTBTbjL24y9DCKfZqE6cZKoMa8Rc9DQT
+					il2KOqTnFohRXHAu4TFUPcEMpqHtOqW6z6n2
+					fTTU63Cwk0ooJZ/L4IdMS9nMt/U92Glz4vcI
+					mgFgTnrOXU6oZQVL0jAz++4/htzxwrJbRKXC
+					vGf+TUuRfJ2cil9dEGcSltNXMiw= )
+; authauthority
+dnsfishing.com.		259119	NS	ns.dnsfishing.com.
+; additional
+ns.dnsfishing.com.	259119	A	192.168.56.10
+; authanswer
+xyz.dnsfishing.com.	259119	A	192.168.56.100
+; additional
+a.root-servers.net.	518321	A	198.41.0.4
+; additional
+			518321	AAAA	2001:503:ba3e::2:30
+; additional
+b.root-servers.net.	518321	A	192.228.79.201
+; additional
+			518321	AAAA	2001:500:84::b
+; additional
+c.root-servers.net.	518321	A	192.33.4.12
+; additional
+			518321	AAAA	2001:500:2::c
+; additional
+d.root-servers.net.	518321	A	199.7.91.13
+; additional
+			518321	AAAA	2001:500:2d::d
+; additional
+e.root-servers.net.	518321	A	192.203.230.10
+; additional
+f.root-servers.net.	518321	A	192.5.5.241
+; additional
+			518321	AAAA	2001:500:2f::f
+; additional
+g.root-servers.net.	518321	A	192.112.36.4
+; additional
+h.root-servers.net.	518321	A	128.63.2.53
+; additional
+			518321	AAAA	2001:500:1::803f:235
+; additional
+i.root-servers.net.	518321	A	192.36.148.17
+; additional
+			518321	AAAA	2001:7fe::53
+; additional
+j.root-servers.net.	518321	A	192.58.128.30
+; additional
+			518321	AAAA	2001:503:c27::2:30
+; additional
+k.root-servers.net.	518321	A	193.0.14.129
+; additional
+			518321	AAAA	2001:7fd::1
+; additional
+l.root-servers.net.	518321	A	199.7.83.42
+; additional
+			518321	AAAA	2001:500:3::42
+; additional
+m.root-servers.net.	518321	A	202.12.27.33
+; additional
+			518321	AAAA	2001:dc3::35
+;
+; Address database dump
+;
+;
+; Unassociated entries
+;
+;	192.5.5.241 [srtt 11] [flags 00000000] [ttl 1721]
+;	202.12.27.33 [srtt 22] [flags 00000000] [ttl 1721]
+;	192.168.56.102 [srtt 197] [flags 00002000] [ttl 1719]
+;	192.33.4.12 [srtt 12] [flags 00000000] [ttl 1721]
+;	2001:500:3::42 [srtt 16] [flags 00000000] [ttl 1721]
+;	193.0.14.129 [srtt 25] [flags 00000000] [ttl 1721]
+;	128.8.10.90 [srtt 20] [flags 00000000] [ttl 1721]
+;	192.112.36.4 [srtt 200000] [flags 00002000] [ttl 1720]
+;	198.41.0.4 [srtt 27] [flags 00000000] [ttl 1721]
+;	2001:503:ba3e::2:30 [srtt 9] [flags 00000000] [ttl 1721]
+;	199.7.83.42 [srtt 23] [flags 00000000] [ttl 1721]
+;	192.228.79.201 [srtt 27] [flags 00000000] [ttl 1721]
+;	2001:500:1::803f:235 [srtt 25] [flags 00000000] [ttl 1721]
+;	2001:dc3::35 [srtt 16] [flags 00000000] [ttl 1721]
+;	2001:7fe::53 [srtt 22] [flags 00000000] [ttl 1721]
+;	192.203.230.10 [srtt 107832] [flags 00002000] [ttl 1721]
+;	128.63.2.53 [srtt 12] [flags 00000000] [ttl 1721]
+;	192.36.148.17 [srtt 200000] [flags 00002000] [ttl 1721]
+;	2001:503:c27::2:30 [srtt 15] [flags 00000000] [ttl 1721]
+;	192.58.128.30 [srtt 7] [flags 00000000] [ttl 1721]
+;	2001:500:2f::f [srtt 29] [flags 00000000] [ttl 1721]
+;	2001:7fd::1 [srtt 27] [flags 00000000] [ttl 1721]
+;
+; Bad cache
+;
+;
+; Start view _bind
+;
+;
+; Cache dump of view '_bind' (cache _bind)
+;
+$DATE 20141012232820
+;
+; Address database dump
+;
+;
+; Unassociated entries
+;
+;
+; Bad cache
+;
+; Dump complete

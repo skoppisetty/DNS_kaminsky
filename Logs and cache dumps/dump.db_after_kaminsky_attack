@@ -1,0 +1,45 @@
+;
+; Start view _default
+;
+;
+; Cache dump of view '_default' (cache _default)
+;
+$DATE 20141013015825
+; authauthority
+dnsfishing.com.		259173	IN NS	ns.dnsfishing.com.
+; additional
+ns.dnsfishing.com.	259173	A	4.3.2.1
+; authanswer
+x-9157305.dnsfishing.com. 259173 A	1.2.3.4
+;
+; Address database dump
+;
+; D.ROOT-SERVERS.NET [v6 TTL 275] [v4 unexpected] [v6 failure]
+; G.ROOT-SERVERS.NET [v6 TTL 275] [v4 unexpected] [v6 failure]
+; B.ROOT-SERVERS.NET [v6 TTL 275] [v4 unexpected] [v6 failure]
+; E.ROOT-SERVERS.NET [v6 TTL 275] [v4 unexpected] [v6 failure]
+; C.ROOT-SERVERS.NET [v6 TTL 275] [v4 unexpected] [v6 failure]
+;
+; Unassociated entries
+;
+;	192.168.56.102 [srtt 444877] [flags 00002000] [ttl 1773]
+;
+; Bad cache
+;
+;
+; Start view _bind
+;
+;
+; Cache dump of view '_bind' (cache _bind)
+;
+$DATE 20141013015825
+;
+; Address database dump
+;
+;
+; Unassociated entries
+;
+;
+; Bad cache
+;
+; Dump complete

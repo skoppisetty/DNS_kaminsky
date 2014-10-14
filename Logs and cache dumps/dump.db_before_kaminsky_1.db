@@ -1,0 +1,49 @@
+;
+; Start view _default
+;
+;
+; Cache dump of view '_default' (cache _default)
+;
+$DATE 20141013021749
+; authauthority
+dnsfishing.com.		258009	IN NS	ns.dnsfishing.com.
+; authauthority
+ns.dnsfishing.com.	10615	\-AAAA	;-$NXRRSET
+; dnsfishing.com. SOA ns.dnsfishing.com. admin.dnsfishing.com. 2008111001 28800 7200 2419200 86400
+; authanswer
+			259015	A	192.168.56.10
+; authanswer
+x-6744734.dnsfishing.com. 259049 A	192.168.56.100
+; authanswer
+x-6937114.dnsfishing.com. 259015 A	192.168.56.100
+; authanswer
+x-9157305.dnsfishing.com. 258009 A	1.2.3.4
+;
+; Address database dump
+;
+; ns.dnsfishing.com [v4 TTL 86215] [v6 TTL 10615] [v4 success] [v6 nxrrset]
+;	192.168.56.10 [srtt 9] [flags 00000000] [ttl 1649]
+;
+; Unassociated entries
+;
+;	192.168.56.102 [srtt 112909] [flags 00002000] [ttl 1649]
+;
+; Bad cache
+;
+;
+; Start view _bind
+;
+;
+; Cache dump of view '_bind' (cache _bind)
+;
+$DATE 20141013021749
+;
+; Address database dump
+;
+;
+; Unassociated entries
+;
+;
+; Bad cache
+;
+; Dump complete
